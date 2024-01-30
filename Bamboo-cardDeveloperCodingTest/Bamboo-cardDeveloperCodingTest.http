@@ -1,0 +1,6 @@
+@Bamboo_cardDeveloperCodingTest_HostAddress = http://localhost:5192
+
+GET {{Bamboo_cardDeveloperCodingTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
