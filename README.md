@@ -56,3 +56,6 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Make sure to update the links, version numbers, and other details according to your specific project setup. If your application has additional dependencies or requires specific configurations, include that information in the README as well.
+
+Rate Limiting:
+We can implement rate limiting to control the number of requests made to the Hacker News API within a specified time period. This will help to prevent the application from overwhelming the Hacker News API and potentially getting blocked. I can use libraries like Polly for implementing policies, including rate limiting.
